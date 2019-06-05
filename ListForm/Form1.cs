@@ -16,5 +16,10 @@ namespace ListForm
         {
             InitializeComponent();
         }
+
+        private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
